@@ -4,7 +4,7 @@
 Using the extensive data that Human Resources team collected in a business, my goal is to develop a model that could predict which employees are more likely to quit
 
 ### Data Description
-* The dataset has a total of 1470 with 33 variables.
+* The dataset has a total of 1470 datapoints with 33 variables.
 
 * Target variable is the binary variable of loan status.
 
