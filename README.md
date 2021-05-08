@@ -21,7 +21,10 @@ Using the extensive data that Human Resources team collected in a business, my g
 
 * As the data is imbalanced, I tried to minimize the false negatives because the most important employees that we should concentrate on is the ones who actually left but the model predicted as stayed. So, Recall is taken as the main metric and overall of 85% recall obtained.
 
-
+### Project Files
+* Human_Resources.csv - Data set
+* Personnel_Attrition_Prediction.ipynb - Project Notebook
+* 
 ### Libraries Used
 * pandas, numpy
 * matplotlib, seaborn
