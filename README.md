@@ -24,7 +24,7 @@ Using the extensive data that Human Resources team collected in a business, my g
 ### Project Files
 * Human_Resources.csv - Data set
 * Personnel_Attrition_Prediction.ipynb - Project Notebook
-* 
+
 ### Libraries Used
 * pandas, numpy
 * matplotlib, seaborn
